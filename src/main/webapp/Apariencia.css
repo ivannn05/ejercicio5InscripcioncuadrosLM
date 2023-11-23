@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+.cuadroGris{
+	
+	background-color:grey;
+	border: solid black black;
+}
+
+.cuadroNaranja{
+		background-color:orange;
+	border: solid black black;
+}
+
+
+
+
+
+.cuadroRojo{
+		background-color:orangered;
+	border: solid black black;
+}
+
+.recuadro{
+	    border: solid black;
+    width: 170px;
+}
+
+.linea1{
+	display:inline-block
+}
+.linea2{
+	display: inline-block;
+}
+.linea3{
+	display: inline-block;
+}
+.linea4{
+	display: inline-block;
+}
+.linea5{
+	display: inline-block;
+}
